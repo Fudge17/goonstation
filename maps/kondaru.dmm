@@ -15802,7 +15802,7 @@
 	dir = 4
 	},
 /turf/simulated/wall/auto/reinforced/supernorn,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "aTv" = (
 /obj/item/raw_material/shard/glass,
 /turf/simulated/floor/airless/plating{
@@ -33111,7 +33111,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "bYF" = (
 /obj/disposalpipe/segment/transport,
 /turf/simulated/wall/auto/supernorn,
@@ -34033,7 +34033,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "cbX" = (
 /obj/disposalpipe/segment/vertical,
 /obj/cable{
@@ -34047,10 +34047,10 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "cbZ" = (
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "cca" = (
 /obj/cable{
 	icon_state = "4-8"
@@ -39674,7 +39674,7 @@
 	},
 /obj/machinery/light/runway_light/delay3,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "cRB" = (
 /obj/storage/closet/wardrobe/red/security_gimmick,
 /turf/simulated/floor/red/side,
@@ -39686,7 +39686,7 @@
 /obj/lattice,
 /obj/machinery/light/runway_light/delay4,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "cSO" = (
 /obj/storage/crate,
 /obj/item/clothing/under/gimmick/princess,
@@ -40435,7 +40435,7 @@
 /obj/machinery/light/runway_light/delay5,
 /obj/lattice,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "dCW" = (
 /obj/machinery/manufacturer/hangar,
 /turf/simulated/floor,
@@ -40453,7 +40453,7 @@
 	tag = ""
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "dDe" = (
 /obj/table/auto,
 /obj/item/peripheral/network/radio/locked{
@@ -40692,7 +40692,7 @@
 	pixel_x = -28
 	},
 /turf/simulated/floor/engine,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "dOy" = (
 /turf/simulated/floor/redwhite{
 	dir = 8
@@ -40890,7 +40890,7 @@
 	},
 /obj/machinery/light/runway_light/delay2,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "dXg" = (
 /obj/disposalpipe/segment/vertical,
 /obj/cable{
@@ -41051,7 +41051,7 @@
 	icon_state = "1-4"
 	},
 /turf/simulated/floor/red,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "edL" = (
 /obj/grille/catwalk{
 	dir = 4
@@ -41096,7 +41096,7 @@
 	dir = 4
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "eeR" = (
 /obj/storage/crate,
 /turf/simulated/floor/plating,
@@ -41732,7 +41732,7 @@
 	},
 /obj/machinery/power/data_terminal,
 /turf/simulated/floor/engine,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "eMs" = (
 /obj/disposalpipe/segment/vertical,
 /obj/critter/nicespider,
@@ -42828,7 +42828,7 @@
 	},
 /obj/machinery/light/runway_light/delay3,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "fNA" = (
 /obj/item/storage/wall/random{
 	dir = 8;
@@ -42890,7 +42890,7 @@
 	},
 /obj/machinery/light/runway_light,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "fQF" = (
 /obj/storage/closet/wardrobe/green,
 /obj/decal/cleanable/dirt,
@@ -43546,7 +43546,7 @@
 	icon_state = "0-2"
 	},
 /turf/simulated/floor/airless/plating,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "gvH" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -43821,7 +43821,7 @@
 /obj/machinery/turret,
 /obj/lattice,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "gMO" = (
 /obj/machinery/atmospherics/pipe/simple/insulated{
 	can_rupture = 0
@@ -43881,7 +43881,7 @@
 	},
 /obj/storage/secure/crate/plasma/armory/anti_biological,
 /turf/simulated/floor/engine,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "gOo" = (
 /obj/machinery/door_control{
 	id = "imports_door";
@@ -44413,7 +44413,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "hir" = (
 /obj/disposalpipe/switch_junction/left/west{
 	mail_tag = "hydroponics";
@@ -44491,7 +44491,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "hnH" = (
 /obj/machinery/door/airlock/pyro/command{
 	name = "Command Centre"
@@ -44701,7 +44701,7 @@
 	dir = 4
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "hyJ" = (
 /obj/cable{
 	d1 = 1;
@@ -45244,9 +45244,6 @@
 	},
 /turf/simulated/floor/specialroom/gym,
 /area/station/crew_quarters/fitness)
-"inI" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/station/turret_protected/armory_outside)
 "iod" = (
 /obj/cable{
 	d1 = 2;
@@ -45338,7 +45335,7 @@
 	},
 /obj/machinery/light/runway_light/delay3,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "iuC" = (
 /obj/grille/catwalk{
 	dir = 4
@@ -45706,7 +45703,7 @@
 	icon_state = "0-4"
 	},
 /turf/simulated/floor/plating,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "iLk" = (
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet{
@@ -45878,7 +45875,7 @@
 /obj/machinery/light/runway_light/delay2,
 /obj/lattice,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "iRP" = (
 /obj/disposalpipe/segment/mail/vertical,
 /turf/simulated/wall/auto/reinforced/supernorn,
@@ -46695,7 +46692,7 @@
 	},
 /obj/machinery/light/runway_light/delay5,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "jRa" = (
 /obj/table/auto,
 /obj/item/paper_bin,
@@ -46859,7 +46856,7 @@
 	},
 /obj/machinery/light/runway_light/delay2,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "kbj" = (
 /obj/machinery/atmospherics/binary/volume_pump{
 	dir = 4;
@@ -47408,7 +47405,7 @@
 	tag = ""
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "kDV" = (
 /obj/machinery/chem_master,
 /turf/simulated/floor/black,
@@ -47488,7 +47485,7 @@
 	dir = 4
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "kJD" = (
 /obj/storage/closet/fire,
 /turf/simulated/floor/plating,
@@ -47913,7 +47910,7 @@
 /obj/machinery/light/runway_light,
 /obj/lattice,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "lgr" = (
 /obj/table/reinforced/auto,
 /obj/machinery/defib_mount{
@@ -48281,7 +48278,7 @@
 	},
 /obj/machinery/light/runway_light/delay2,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "lvJ" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
@@ -48833,7 +48830,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "maH" = (
 /obj/item/device/radio/intercom/security,
 /obj/filing_cabinet,
@@ -48872,7 +48869,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "mdB" = (
 /obj/machinery/computer/security/wooden_tv,
 /turf/simulated/floor/plating/damaged1,
@@ -49238,7 +49235,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "mBf" = (
 /obj/disposalpipe/segment/bent/west,
 /obj/cable{
@@ -49647,18 +49644,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/turretid{
-	name = "External perimeter turret deactivation control";
-	req_access = null;
-	turretArea = /area/station/turret_protected/armory_outside;
-	pixel_y = -24
-	},
-/obj/access_spawn/hos,
-/obj/deployable_turret/riot{
-	active = 1;
-	anchored = 1;
-	dir = 1
-	},
+/obj/machinery/turret,
 /turf/simulated/floor/engine,
 /area/station/ai_monitored/armory)
 "mTQ" = (
@@ -50381,7 +50367,7 @@
 	},
 /obj/cable,
 /turf/simulated/floor/plating,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "nIU" = (
 /turf/simulated/floor/carpet/purple/fancy/edge/south,
 /area/station/science/research_director)
@@ -50438,7 +50424,7 @@
 	},
 /obj/machinery/light/runway_light/delay2,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "nLw" = (
 /obj/cable{
 	d2 = 8;
@@ -50966,7 +50952,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/red,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "ojD" = (
 /obj/machinery/disposal/cart_port,
 /obj/disposalpipe/trunk/east,
@@ -51845,7 +51831,7 @@
 	},
 /obj/machinery/light/runway_light/delay5,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "pha" = (
 /obj/table/reinforced/auto,
 /obj/item/decoration/ashtray{
@@ -51907,7 +51893,7 @@
 	},
 /obj/machinery/light/runway_light,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "plQ" = (
 /obj/rack,
 /obj/item/ammo/bullets/smoke,
@@ -52117,7 +52103,7 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor/plating,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "puJ" = (
 /obj/stool/chair/office/yellow{
 	dir = 4
@@ -52182,7 +52168,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "pxy" = (
 /obj/machinery/light/emergency{
 	dir = 1;
@@ -52791,7 +52777,7 @@
 /obj/lattice,
 /obj/machinery/turret,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "pWA" = (
 /obj/table/auto,
 /obj/item/storage/toolbox/mechanical{
@@ -53597,7 +53583,7 @@
 "qLy" = (
 /obj/lattice,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "qLE" = (
 /obj/disposalpipe/segment/mail/horizontal,
 /obj/cable{
@@ -53650,7 +53636,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "qNt" = (
 /obj/machinery/door/airlock/pyro{
 	name = "Catering Cargo Endpoint"
@@ -54011,7 +53997,7 @@
 	tag = ""
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "rgh" = (
 /obj/machinery/disposal/mail/autoname/mining,
 /obj/disposalpipe/trunk/mail/west,
@@ -54567,7 +54553,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "rSs" = (
 /obj/disposalpipe/segment/transport{
 	dir = 4
@@ -54921,7 +54907,7 @@
 	},
 /obj/machinery/light/runway_light,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "shm" = (
 /obj/table/reinforced/auto,
 /obj/item/storage/firstaid/fire{
@@ -57527,7 +57513,7 @@
 	dir = 4
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "uGb" = (
 /obj/table/wood/auto,
 /obj/item/paper_bin,
@@ -57667,8 +57653,13 @@
 /obj/stool/chair/red{
 	dir = 4
 	},
+/obj/machinery/turretid{
+	pixel_x = -26;
+	req_access = null;
+	req_access_txt = "1"
+	},
 /turf/simulated/floor/engine,
-/area/station/security/secwing)
+/area/station/ai_monitored/armory)
 "uOm" = (
 /obj/disposalpipe/segment/brig{
 	dir = 1
@@ -57842,7 +57833,7 @@
 	},
 /obj/machinery/light/runway_light/delay4,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "uVg" = (
 /obj/cable{
 	icon_state = "2-8"
@@ -58638,7 +58629,7 @@
 	},
 /obj/machinery/light/runway_light/delay5,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "vSu" = (
 /obj/stool/chair/couch{
 	dir = 8;
@@ -59022,7 +59013,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "wmT" = (
 /obj/disposalpipe/segment/food,
 /obj/stool/chair/green{
@@ -59431,7 +59422,7 @@
 	},
 /obj/machinery/light/runway_light,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "wFl" = (
 /obj/wingrille_spawn/auto,
 /obj/cable,
@@ -59568,7 +59559,7 @@
 	},
 /obj/machinery/light/runway_light/delay4,
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "wMM" = (
 /obj/machinery/hair_dye_dispenser,
 /turf/simulated/floor/specialroom/cafeteria,
@@ -59997,7 +59988,7 @@
 	dir = 4
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "xhg" = (
 /obj/cable{
 	icon_state = "1-2"
@@ -60621,7 +60612,7 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor/plating,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "xLn" = (
 /turf/simulated/floor/yellow,
 /area/station/engine/storage)
@@ -61021,7 +61012,7 @@
 	icon_state = "lattice-dir"
 	},
 /turf/space,
-/area/station/turret_protected/armory_outside)
+/area/station/ai_monitored/armory)
 "xYT" = (
 /obj/storage/secure/closet/engineering/mining,
 /obj/machinery/power/apc/autoname_east,
@@ -120362,11 +120353,11 @@ kfn
 uEv
 cbZ
 hhI
-inI
-inI
-inI
-inI
-inI
+cba
+cba
+cba
+cba
+cba
 cbW
 cbZ
 cbZ
@@ -120964,7 +120955,7 @@ xJy
 qkd
 vTU
 aTu
-vTU
+cba
 cba
 gjV
 sSD
@@ -120972,7 +120963,7 @@ fIi
 qha
 sVX
 cba
-inI
+cba
 cbZ
 cbZ
 kbb
@@ -121274,7 +121265,7 @@ gYY
 mQH
 rAa
 cba
-inI
+cba
 iKQ
 cbZ
 iuB
@@ -121878,7 +121869,7 @@ mCq
 tho
 eIo
 cba
-inI
+cba
 xLa
 cbZ
 vSl
@@ -122172,7 +122163,7 @@ vTU
 vTU
 vTU
 pur
-vTU
+cba
 cba
 pGO
 hEy
@@ -122180,7 +122171,7 @@ xuw
 vvg
 wQJ
 cba
-inI
+cba
 cbZ
 cbZ
 fPI
@@ -122778,11 +122769,11 @@ fYL
 uEv
 cbZ
 hhI
-inI
-inI
-inI
-inI
-inI
+cba
+cba
+cba
+cba
+cba
 cbW
 cbZ
 cbZ

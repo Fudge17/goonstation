@@ -45137,12 +45137,6 @@
 	},
 /turf/simulated/floor/black,
 /area/station/crew_quarters/quartersA)
-"eUL" = (
-/obj/machinery/r_door_control/podbay/security/new_walls/east{
-	pixel_x = 24
-	},
-/turf/simulated/floor/shuttlebay,
-/area/station/hangar/sec)
 "eXS" = (
 /obj/cable{
 	d1 = 1;
@@ -47006,8 +47000,10 @@
 	name = "Catering Hangar"
 	})
 "qBd" = (
+/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose{
+	id = "secure_dock"
+	},
 /obj/forcefield/energyshield/perma/doorlink,
-/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/security_horizontal,
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
 "qEN" = (
@@ -47911,7 +47907,11 @@
 /area/station/crew_quarters/arcade)
 "xmS" = (
 /obj/machinery/light/incandescent/greenish,
-/obj/machinery/door_control/podbay/security/new_walls/east,
+/obj/machinery/door_control{
+	id = "secure_dock";
+	name = "Secure Dock Blast Door Control";
+	pixel_x = 24
+	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
 "xsB" = (
@@ -96271,7 +96271,7 @@ oox
 qPg
 vIJ
 xVc
-eUL
+nhW
 qBd
 aqn
 aqn

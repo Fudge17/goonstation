@@ -173,6 +173,8 @@
 
 	mouse_drag_pointer = MOUSE_ACTIVE_POINTER
 
+	var/vamp_beingbitten = 0 // Are we being drained by a vampire?
+
 	var/atom/eye = null
 	var/eye_pixel_x = 0
 	var/eye_pixel_y = 0
@@ -1462,6 +1464,18 @@
 
 /mob/verb/succumb()
 	set hidden = 1
+/*
+//prevent a
+ if the person is infected with the headspider disease.
+	for (var/datum/ailment/V in src.ailments)
+		if (istype(V, /datum/ailment/parasite/headspider) || istype(V, /datum/ailment/parasite/alien_embryo))
+			boutput(src, "You can't muster the willpower. Something is preventing you from doing it.")
+			return
+*/
+//or if they are being drained of blood
+	if (src.vamp_beingbitten)
+		boutput(src, "You can't muster the willpower. Something is preventing you from doing it.")
+		return
 
 	if (src.health < 0)
 		boutput(src, "<span class='notice'>You have given up life and succumbed to death.</span>")

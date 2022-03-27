@@ -1273,8 +1273,8 @@ proc/info_overlay_choices()
 				img:loc = null
 				qdel(img)
 			infoOverlayImages = list()
-		qdel(activeOverlay)
 		activeOverlay = null
+		qdel(activeOverlay)
 	else
 		var/type = available_overlays[name]
 		activeOverlay = new type()

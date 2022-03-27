@@ -42,8 +42,6 @@ THROWING DARTS
 			MAKE_SENDER_RADIO_PACKET_COMPONENT(null, pda_alert_frequency)
 
 	disposing()
-		if (owner)
-			on_remove(owner)
 		owner = null
 		former_implantee = null
 		if (uses_radio)

@@ -1,6 +1,6 @@
 /obj/item/device/borg_linker
-	name = "cyborg law linker"
-	icon_state = "cyborg_linker"
+	name = "linker"
+	icon_state = "multitool_green" //TODO: need a new sprite
 	flags = FPRINT | TABLEPASS| CONDUCT | ONBELT
 	force = 5.0
 	w_class = W_CLASS_SMALL
